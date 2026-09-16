@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain==0.3.27
+langchain-community
+langchain-groq
+langchain-google-genai
+chromadb
+sentence-transformers
+pypdf
+python-dotenv
+python-multipart
+aiofiles
+tiktoken
